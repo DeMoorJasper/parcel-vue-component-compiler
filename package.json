@@ -1,5 +1,5 @@
 {
-  "name": "vue-component-compiler",
+  "name": "parcel-vue-component-compiler",
   "version": "3.0.0",
   "description": "bundler agnostic API for compiling Vue SFC",
   "main": "src/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vue-component-compiler.git"
+    "url": "git+https://github.com/DeMoorJasper/parcel-vue-component-compiler.git"
   },
   "keywords": [
     "vue",
@@ -20,10 +20,10 @@
   "author": "Evan You",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/vue-component-compiler/issues"
+    "url": "https://github.com/DeMoorJasper/parcel-vue-component-compiler/issues"
   },
   "typings": "index.d.ts",
-  "homepage": "https://github.com/vuejs/vue-component-compiler#readme",
+  "homepage": "https://github.com/DeMoorJasper/parcel-vue-component-compiler#readme",
   "devDependencies": {
     "@vue/test-utils": "^1.0.0-beta.10",
     "babel-plugin-external-helpers": "^6.22.0",

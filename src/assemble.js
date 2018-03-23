@@ -49,11 +49,11 @@ const defaults = {
   esModule: true,
   require: {
     normalizeComponent:
-      'vue-component-compiler/src/runtime/normalize-component',
+      'parcel-vue-component-compiler/src/runtime/normalize-component',
     injectStyleClient:
-      'vue-component-compiler/src/runtime/inject-style-client',
+      'parcel-vue-component-compiler/src/runtime/inject-style-client',
     injectStyleServer:
-      'vue-component-compiler/src/runtime/inject-style-server'
+      'parcel-vue-component-compiler/src/runtime/inject-style-server'
   },
   isServer: false,
   isProduction: true,

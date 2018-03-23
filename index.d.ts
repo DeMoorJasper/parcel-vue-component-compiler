@@ -158,7 +158,7 @@ declare module VueComponentCompiler {
     shortFilePath?: string // = filename
     require?: {
       vueHotReloadAPI?: string // vue-hot-reload-api
-      normalizeComponent?: string // vue-component-compiler/src/normalize-component.js
+      normalizeComponent?: string // parcel-vue-component-compiler/src/normalize-component.js
     }
     scopeId: string // same as scopeId of style compiler.
     moduleIdentifier?: string // ~ used in SSR
